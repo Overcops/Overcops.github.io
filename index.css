@@ -1,0 +1,41 @@
+ 
+ h2 {
+     color: Grey;
+    font-size: 22px
+}
+
+.Name-me {
+            color: #fcde58;
+            font-size: 40px
+} 
+
+.Link-External {
+
+                color: rgba(243, 235, 235, 0.856);
+}
+
+.Link-External:hover {
+                        
+                    color: rgba(243, 204, 30, 0.753);
+}
+
+.main1 {
+        background: rgba(2, 0, 0, 0.568);
+        padding: 10px 5px 5px 10px;
+}
+
+.Art1,.Art2,.Art3,.Art4 {
+    background: rgba(128, 128, 128, 0.356);
+    padding: 10px 10px 10px 20px;
+}
+
+.Art5 {
+    font-size: 15px;
+    background: rgba(128, 128, 128, 0.356);
+}
+
+
+
+
+
+
