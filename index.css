@@ -1,41 +1,65 @@
- 
- h2 {
-     color: Grey;
-    font-size: 22px
+h2 {
+    color: Grey;
+    font-size: 30px;
+    padding: 20px;
 }
 
 .Name-me {
-            color: #fcde58;
-            font-size: 40px
-} 
+        color: #fcde58;
+        font-size: 50px;
+        padding:    10px;
+        } 
 
 .Link-External {
 
                 color: rgba(243, 235, 235, 0.856);
-}
+                font-size: 20px;
+            }
 
 .Link-External:hover {
-                        
-                    color: rgba(243, 204, 30, 0.753);
+                     color: rgba(243, 204, 30, 0.753);
+                    padding: 3px;
 }
 
 .main1 {
         background: rgba(2, 0, 0, 0.568);
-        padding: 10px 5px 5px 10px;
+        padding: 20px 20px 5px 20px;
 }
 
 .Art1,.Art2,.Art3,.Art4 {
     background: rgba(128, 128, 128, 0.356);
-    padding: 10px 10px 10px 20px;
+    padding: 10px 5px 10px 20px;
+    padding: 20px;
 }
 
 .Art5 {
-    font-size: 15px;
+    font-size: 40px;
     background: rgba(128, 128, 128, 0.356);
 }
 
+.Image {
+        width:20%;
+        height: auto;
+        padding:30px;
+    }
 
+body {
+    margin-top: 0;
+    margin-right: 0;
+    margin-left: 0;
+}
 
+.desc {
+    font-size: 17px;
+    color: rgb(63, 61, 61);
+}
 
+.btn {
+    background-color: transparent;
+    color: rgba(243, 235, 235, 0.856);
+}
 
-
+.btn:hover {
+            color: rgba(243, 204, 30, 0.753);
+            padding: 3px;
+}
