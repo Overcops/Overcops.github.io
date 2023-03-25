@@ -6,35 +6,44 @@ h2 {
 
 .Name-me {
         color: #fcde58;
-        font-size: 50px;
+        font-size: 70px;
         padding:    10px;
-        } 
+} 
 
 .Link-External {
 
                 color: rgba(243, 235, 235, 0.856);
-                font-size: 20px;
+                font-size: 30px;
             }
 
 .Link-External:hover {
                      color: rgba(243, 204, 30, 0.753);
-                    padding: 3px;
+                    
 }
 
 .main1 {
         background: rgba(2, 0, 0, 0.568);
-        padding: 20px 20px 5px 20px;
+        padding: 20px 10px 5px 20px;
+        text-align:center;
+}
+.Link-External{
+    margin: 0 14px;
 }
 
+
 .Art1,.Art2,.Art3,.Art4 {
-    background: rgba(128, 128, 128, 0.356);
-    padding: 10px 5px 10px 20px;
-    padding: 20px;
+    background: rgba(128, 128, 128, 0.377);
+    padding: 10px 5px 10px 10px;
+    padding: 10px;
+    line-height: 1.4;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align:center;
+
 }
 
 .Art5 {
-    font-size: 40px;
-    background: rgba(128, 128, 128, 0.356);
+    font-size: 10px;
+    text-align: center;
 }
 
 .Image {
@@ -47,19 +56,24 @@ body {
     margin-top: 0;
     margin-right: 0;
     margin-left: 0;
+    font-family: cursive;
+    letter-spacing: 0.2;
 }
 
 .desc {
     font-size: 17px;
-    color: rgb(63, 61, 61);
+    color: rgb(5, 5, 5);
 }
 
-.btn {
-    background-color: transparent;
-    color: rgba(243, 235, 235, 0.856);
+.btn { 
+    background-color: rgba(12, 11, 11, 0.568);
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+    padding-right: 170px;
+    padding-left: 170px;
+    font-family: cursive;
 }
 
 .btn:hover {
-            color: rgba(243, 204, 30, 0.753);
-            padding: 3px;
+            color: rgba(175, 168, 168, 0.527);
 }
