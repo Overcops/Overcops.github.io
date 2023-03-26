@@ -75,6 +75,7 @@ body {
     padding-right: 170px;
     padding-left: 170px;
     font-family: cursive;
+    text-decoration: none;
 }
 
 .btn:hover {
@@ -82,4 +83,15 @@ body {
 }
 span {
     text-decoration:underline
+}
+
+.Hire {
+    color:rgba(243, 235, 235, 0.856);
+                font-size: 30px;
+                text-decoration: none;
+}
+.Hire:hover {
+    color: rgba(243, 168, 30, 0.753);
+    text-decoration:underline;
+
 }
