@@ -14,13 +14,16 @@ h2 {
 
                 color: rgba(243, 235, 235, 0.856);
                 font-size: 30px;
-            }
+                text-decoration: none;
+}
 
 .Link-External:hover {
                      color: rgba(243, 204, 30, 0.753);
-                    
+                    text-decoration:underline;                
 }
-
+p {
+    font-size: 13px;
+}
 .main1 {
         background: rgba(2, 0, 0, 0.568);
         padding: 20px 10px 5px 20px;
@@ -76,4 +79,7 @@ body {
 
 .btn:hover {
             color: rgba(175, 168, 168, 0.527);
+}
+span {
+    text-decoration:underline
 }
