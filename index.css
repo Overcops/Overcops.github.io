@@ -28,7 +28,7 @@ p {
         background: rgba(2, 0, 0, 0.568);
         padding: 20px 10px 5px 20px;
         text-align:center;
-        
+        background-image:url("Outils/R.png");  
 }
 .Link-External{
     margin: 0 14px;
