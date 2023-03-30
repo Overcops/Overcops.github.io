@@ -28,6 +28,7 @@ p {
         background: rgba(2, 0, 0, 0.568);
         padding: 20px 10px 5px 20px;
         text-align:center;
+        
 }
 .Link-External{
     margin: 0 14px;
@@ -37,7 +38,7 @@ p {
 .Art1,.Art2,.Art3,.Art4 {
     background: rgba(128, 128, 128, 0.377);
     padding: 10px 5px 10px 10px;
-    padding: 10px;
+    padding: 12px;
     line-height: 1.4;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align:center;
@@ -53,6 +54,7 @@ p {
         width:20%;
         height: auto;
         padding:30px;
+        
     }
 
 body {
@@ -71,11 +73,14 @@ body {
 .btn { 
     background-color: rgba(12, 11, 11, 0.568);
     color: rgb(255, 255, 255);
-    font-size: 23px;
-    padding-right: 170px;
-    padding-left: 170px;
+    top: 580px;
+    right: 450px;
+    left:450px;
+    bottom: 10px;
     font-family: cursive;
     text-decoration: none;
+    position: fixed;
+    font-size: 23px;
 }
 
 .btn:hover {
@@ -95,3 +100,6 @@ span {
     text-decoration:underline;
 
 }
+
+
+
