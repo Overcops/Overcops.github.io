@@ -73,13 +73,11 @@ body {
 .btn { 
     background-color: rgba(12, 11, 11, 0.568);
     color: rgb(255, 255, 255);
-    top: 580px;
-    right: 450px;
-    left:450px;
-    bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
     font-family: cursive;
     text-decoration: none;
-    position: fixed;
+    text-align: center;
     font-size: 23px;
 }
 
